@@ -5,12 +5,12 @@
 
 ---
 
-## Add Some Slide Candy
+@title[Game Development]
 
 ![](assets/img/presentation.png)
 
 ---
-@title[Customize Slide Layout]
+@title[Web Development]
 
 @snap[west span-50]
 ## Customize Slide Content Layout
