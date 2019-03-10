@@ -1,5 +1,5 @@
 ## Introduce My Self
-@snap[South-East]
+@snap[south-east]
 #### Changhun Song
 @snapend
 
