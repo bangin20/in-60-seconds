@@ -1,6 +1,6 @@
-# Introduce My Self
-@snap[west span-20]
-### Changhun Song
+## Introduce My Self
+@snap[east span-20]
+#### Changhun Song
 @snapend
 
 ---
