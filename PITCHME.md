@@ -10,6 +10,7 @@
 ![](assets/img/presentation.png)
 
 ---
+@snap[north-west]
 ## Web Development
 
 @snap[west span-50]
