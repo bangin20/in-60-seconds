@@ -5,12 +5,12 @@
 
 ---
 
-@title[Game Development]
+## Game Development
 
 ![](assets/img/presentation.png)
 
 ---
-@title[Web Development]
+## Web Development
 
 @snap[west span-50]
 ## Customize Slide Content Layout
