@@ -23,13 +23,12 @@
 @snap[north-west]
 ## Development Engine
 @snapend
-@snap[west span-30]
+@snap[west]
 ![](assets/img/unity_logo.png)
 @snapend
-@snap[midpoint span-30]
+@snap[east]
 ![](assets/img/android_studio.jpeg)
 @snapend
-@snap[east span-30]
 
 ---
 @snap[north-west]
