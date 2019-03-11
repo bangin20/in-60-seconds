@@ -4,8 +4,8 @@
 @snapend
 
 ---
-@snap[north]
-## Game Development
+@snap[north-west]
+## Development Engine
 @snapend
 @snap[west span-30]
 ![](assets/img/unity_logo.png)
