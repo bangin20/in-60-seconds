@@ -39,9 +39,12 @@
 ## Projects
 @snapend
 
+@snap[west span-50]
+신여성 도착하다
+@snapend
 
 @snap[east span-50]
-![](assets/img/presentation.png)
+![](assets/img/new_woman.webp)
 @snapend
 
 ---?color=#E58537
