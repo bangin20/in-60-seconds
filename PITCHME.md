@@ -39,7 +39,7 @@
 ## Projects
 @snapend
 
-@snap[west span-50]
+@snap[west]
 The arrival of @size[1.2em](New Woman)
 @size[1.6em](@color[orange](Guide)) Application
 @snapend
