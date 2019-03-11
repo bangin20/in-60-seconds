@@ -5,14 +5,15 @@
 ---
 @snap[north-west]
 ## Programming Language
-@ul[squares]
+@snapend
+//@ul[squares]
 
 - Python
 - C, C++
 - Java
 - Ocaml
 
-@ulend
+//@ulend
 
 
 ---
