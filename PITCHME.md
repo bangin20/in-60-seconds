@@ -9,7 +9,7 @@
 @snapend
 @snap[west span-30]
 ![](assets/img/unity_logo.png)
-@snap[west-span-30]
+@snap[west-span-60]
 ![](assets/img/android_studio.jpeg)
 @snapend
 
