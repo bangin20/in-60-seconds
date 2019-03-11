@@ -13,8 +13,8 @@
 @snap[north-west]
 ## Web Development
 
-@snap[west span-50]
-## Customize Slide Content Layout
+@snap[west span-30]
+![](assets/img/unity_logo.png)
 @snapend
 
 @snap[east span-50]
