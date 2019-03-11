@@ -4,7 +4,7 @@
 @snapend
 
 ---
-
+@snap[north]
 ## Game Development
 
 @snap[west span-30]
