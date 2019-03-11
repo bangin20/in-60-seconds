@@ -34,13 +34,14 @@
 ![](assets/img/android_studio.jpeg)
 @snapend
 
----?color=#FFA7C3
+---
 @snap[north-west]
 ## Projects
 @snapend
 
 @snap[west span-50]
 The arrival of New Woman
+Guide Application
 @snapend
 
 @snap[east span-40]
