@@ -6,7 +6,7 @@
 ---
 @snap[north]
 ## Game Development
-
+@snapend
 @snap[west span-30]
 ![](assets/img/unity_logo.png)
 @snapend
