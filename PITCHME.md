@@ -43,7 +43,7 @@
 신여성 도착하다
 @snapend
 
-@snap[east sidebar]
+@snap[east span-30]
 ![](assets/img/new_woman.webp)
 @snapend
 
