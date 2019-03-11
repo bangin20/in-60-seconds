@@ -27,7 +27,7 @@
 ![](assets/img/unity_logo.png)
 @snapend
 @snap[midpoint span-30]
-![](asset/img/OpenCV_Logo.png)
+![](assets/img/OpenCV_Logo.png)
 @snapend
 @snap[east span-30]
 ![](assets/img/android_studio.jpeg)
