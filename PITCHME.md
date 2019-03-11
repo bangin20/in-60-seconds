@@ -7,15 +7,15 @@
 
 ## Game Development
 
-![](assets/img/presentation.png)
+@snap[west span-30]
+![](assets/img/unity_logo.png)
+@snapend
 
 ---
 @snap[north-west]
 ## Web Development
 
-@snap[west span-30]
-![](assets/img/unity_logo.png)
-@snapend
+
 
 @snap[east span-50]
 ![](assets/img/presentation.png)
