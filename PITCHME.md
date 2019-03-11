@@ -40,7 +40,7 @@
 @snapend
 
 @snap[west span-60]
-The arrival of @size[1.2em](New Woman)
+The arrival of @size[1.2em](New Women)
 @size[1.6em](@color[orange](Guide)) Application
 @snapend
 @snap[south-west]
