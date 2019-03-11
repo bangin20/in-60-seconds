@@ -35,12 +35,12 @@
 @snapend
 
 ---
-@snap[north]
+@snap[north-west]
 ## Projects
 @snapend
 
 @snap[west span-50]
-신여성 도착하다
+The arrival of New Woman
 @snapend
 
 @snap[east span-40]
