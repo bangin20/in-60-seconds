@@ -2,17 +2,30 @@
 @snap[south-east]
 #### Changhun Song
 @snapend
+---
+@snap[north-west]
+## Programming Language
+@ul[squares]
+
+- Python
+- C, C++
+- Java
+- Ocaml
+
+@ulend
+
 
 ---
 @snap[north-west]
 ## Development Engine
 @snapend
-@snap[west span-20]
+@snap[west span-30]
 ![](assets/img/unity_logo.png)
 @snapend
-@snap[midpoint span-20]
+@snap[midpoint span-30]
 ![](assets/img/android_studio.jpeg)
 @snapend
+@snap[east span-30]
 
 ---
 @snap[north-west]
