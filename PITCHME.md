@@ -40,10 +40,9 @@
 @snapend
 
 @snap[west span-50]
-@snap[midpoint]
 The arrival of New Woman
-@color[red](Guide Application)
-@snapend
+@size[10](@color[orange](Guide)) Application
+
 @snapend
 
 @snap[east span-40]
