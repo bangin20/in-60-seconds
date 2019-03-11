@@ -63,4 +63,6 @@ The arrival of @size[1.2em](New Woman)
 @ulend
 
 
----?image=assets/img/thankyou2.png
+---
+
+# Thank You
