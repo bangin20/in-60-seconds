@@ -52,25 +52,16 @@ The arrival of @size[1.2em](New Woman)
 ![](assets/img/new_woman.webp)
 @snapend
 
----?color=#E58537
-@title[Add A Little Imagination]
-
+---
 @snap[north-west]
-#### Add a splash of @color[cyan](**color**) and you are ready to start presenting...
+## Weakness
 @snapend
 
-@snap[west span-55]
-@ul[spaced text-white]
-- You will be amazed
-- What you can achieve
-- *With a little imagination...*
-- And **GitPitch Markdown**
+@ul
+- Web Development
+- Testing and Validating
 @ulend
-@snapend
 
-@snap[east span-45]
-@img[shadow](assets/img/conference.png)
-@snapend
 
 ---?image=assets/img/presenter.jpg
 
