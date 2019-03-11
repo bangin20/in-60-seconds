@@ -10,7 +10,7 @@
 @snap[west span-20]
 ![](assets/img/unity_logo.png)
 @snapend
-@snap[midpoint]
+@snap[midpoint span-20]
 ![](assets/img/android_studio.jpeg)
 @snapend
 
