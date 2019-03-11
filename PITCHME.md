@@ -34,10 +34,8 @@
 ![](assets/img/android_studio.jpeg)
 @snapend
 
----
-@snap[north-west]
+---?image=assets/img/new_woman.webp
 ## Projects
-@snapend
 
 @snap[west span-50]
 신여성 도착하다
