@@ -44,7 +44,7 @@ The arrival of New Woman
 @size[2em](@color[orange](Guide)) Application
 @snapend
 @snap[south-west span-50]
-- National Modern Art Museum -
+@size[1em](@color[gray](National Modern Art Museum))
 
 @snapend
 
