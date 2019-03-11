@@ -5,6 +5,8 @@
 ---
 @snap[north-west]
 ## Programming Language
+@snapend
+@snap[west]
 @ul[squares]
 
 - Python
