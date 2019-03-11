@@ -7,7 +7,7 @@
 @snap[north-west]
 ## Development Engine
 @snapend
-@snap[west]
+@snap[west span-20]
 ![](assets/img/unity_logo.png)
 @snapend
 @snap[midpoint]
