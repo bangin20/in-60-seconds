@@ -2,6 +2,7 @@
 @snap[south-east]
 #### Changhun Song
 @snapend
+
 ---
 @snap[north-west]
 ## Programming Language
@@ -35,8 +36,8 @@
 
 ---
 @snap[north-west]
-## Web Development
-
+## Projects
+@snapend
 
 
 @snap[east span-50]
