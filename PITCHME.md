@@ -34,7 +34,7 @@
 ![](assets/img/android_studio.jpeg)
 @snapend
 
----
+---?color=#FFA7C3
 @snap[north-west]
 ## Projects
 @snapend
